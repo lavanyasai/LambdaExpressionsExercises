@@ -1,5 +1,4 @@
 All the Exercises part of LambdaExpressions
-
 1)Create Employee class having 3 fields name as age , name and lastname.Generate constructor and getter/setter.
 Create LambdaDemoClass this class will create List objects of type Employees.
 Following implementation needs to be done
